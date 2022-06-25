@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://bitbin.it/sSXdj1qV/raw/",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=8656ll",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "avi.shhzx.tech:104.20.0.90",
-      "CheckUser": "http://138.118.173.111:5454/checkUser",
+      "CheckUser": "http://2804:21ec:3ffc:2:94a7:2dff:feee:9194:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
